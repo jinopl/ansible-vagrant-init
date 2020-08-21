@@ -1,0 +1,7 @@
+---
+- name: provision task
+  hosts: default
+  become: true
+  # roles:
+  #   - roles
+  
